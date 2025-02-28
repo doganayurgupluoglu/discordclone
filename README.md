@@ -2,7 +2,18 @@
 
 Bu proje, HTML ve CSS yeteneklerini geliştirmek ve pratik yapmak amacıyla oluşturulmuş bir Discord kullanıcı arayüzü klonudur. Temel amacı, modern CSS ve HTML yapılarını kullanarak kompleks bir arayüzü yeniden oluşturmak ve bu teknolojilerdeki becerilerimi ilerletmektir.
 
+## Canlı Örnek
+[Discord Clone](https://discordclone-hazel.vercel.app/)
+
+## Ekran Görüntüleri
+
 ![Discord Clone Screenshot](screenshot.png)
+
+## Proje Planı
+
+Başlamadan önce paintten basit bir plan yapıp flexbox yapısını çizdim, Bu planın amacı, projenin yönetimi ve ilerlemesini kolaylaştırmaktı. keskin sapmalar olmaksızın plana sadık ilerledim.
+
+![Proje Planı](projeplanlama.png)
 
 ## Proje Amacı
 
@@ -58,6 +69,11 @@ Bu proje, HTML ve CSS yeteneklerini geliştirmek ve pratik yapmak amacıyla olu�
 - Emoji picker eklemek
 - Özelleştirilmiş ve stil verilmiş scrollbar tasarımı eklemek (tüm tarayıcılarla uyumluluğu test ederek)
 
+## Faydalanılan Kaynaklar
+- PNG' ler için 
+[uxwing](https://uxwing.com/)
+- SVG'ler için
+[Font Awesome](https://fontawesome.com/)
 ## İletişim
 
 DoganayLab - [https://doganaylab.com](https://doganaylab.com)
